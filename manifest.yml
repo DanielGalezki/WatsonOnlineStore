@@ -24,4 +24,4 @@ applications:
 env:
   CLOUDANT_DB_NAME: watson-online-store
   SLACK_BOT_USER: watsonbot
-  SLACK_BOT_TOKEN: xoxb-234692794006-YTuzY5vHWGhlaPso7iRo7DJB
+  SLACK_BOT_TOKEN: xoxb-235390374359-jNhSEDTen2KS58ACmyYiPGZo
